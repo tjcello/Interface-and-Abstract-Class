@@ -9,6 +9,6 @@ package lephrechauns;
  *
  * @author tduwe
  */
-public class Person implements OrganicMatter {
+public interface OrganicMatter{
     
 }
