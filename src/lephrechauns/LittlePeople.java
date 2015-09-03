@@ -10,5 +10,16 @@ package lephrechauns;
  * @author tduwe
  */
 public class LittlePeople extends Person {
+    private String midgets;
+
+    public String getMidgets() {
+        return midgets;
+    }
+
+    public void setMidgets(String midgets) {
+        
+        this.midgets = midgets;
+    }
+    
     
 }
