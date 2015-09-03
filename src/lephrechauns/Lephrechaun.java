@@ -9,7 +9,7 @@ package lephrechauns;
  *
  * @author Thomas
  */
-public class Lephrechauns extends LittlePeople {
+public class Lephrechaun extends LittlePeople {
 
     /**
      * @param args the command line arguments
