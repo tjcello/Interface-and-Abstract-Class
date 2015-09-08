@@ -9,13 +9,7 @@ package lephrechauns;
  *
  * @author Thomas
  */
-public class Lephrechaun extends LittlePeople {
+public class Lephrechaun extends MythicalBeing {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
 }

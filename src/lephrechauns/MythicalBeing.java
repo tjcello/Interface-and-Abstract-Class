@@ -9,7 +9,7 @@ package lephrechauns;
  *
  * @author tduwe
  */
-public class LittlePeople extends Person {
+public abstract class MythicalBeing implements Fantasy {
     
     
     

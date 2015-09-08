@@ -9,6 +9,6 @@ package lephrechauns;
  *
  * @author tduwe
  */
-public interface OrganicMatter{
+public interface Fantasy{
     
 }
