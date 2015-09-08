@@ -10,6 +10,16 @@ package lephrechauns;
  * @author Thomas
  */
 public class Lephrechaun extends MythicalBeing {
+    private String stealsGold;
 
+    public String getStealsGold() {
+        return stealsGold;
+    }
+
+    public void setStealsGold(String stealsGold) {
+        this.stealsGold = stealsGold;
+    }
+    
+    
     
 }
