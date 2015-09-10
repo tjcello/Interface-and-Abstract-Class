@@ -20,6 +20,9 @@ public class Lephrechaun extends MythicalBeing {
         this.stealsGold = stealsGold;
     }
     
+    public void exists(){
+    exists= true;
+}
     
     
 }

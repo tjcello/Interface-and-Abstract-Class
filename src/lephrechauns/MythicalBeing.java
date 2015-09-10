@@ -10,6 +10,16 @@ package lephrechauns;
  * @author tduwe
  */
 public abstract class MythicalBeing implements Fantasy {
+    boolean exists;
+
+    public boolean isExists() {
+        return exists;
+    }
+
+    public void setExists(boolean exists) {
+        this.exists = exists;
+    }
+    
     
     
     
